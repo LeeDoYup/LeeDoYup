@@ -1,7 +1,7 @@
 ## Hello 😄
-I am doyup lee. Now, i'm a Ph.D candidate at POSTECH, South Korea.  
+I am Doyup Lee. Now, I'm a Ph.D candidate at POSTECH, South Korea.  
 I definetly believe that machine learning can make human life much happier.  
-Of course, I love to learn a new technology 
+Of course, I love to learn a new technology. 
 
 ### Research Interests
 - Robustness of deep learning
