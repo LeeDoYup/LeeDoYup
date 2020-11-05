@@ -15,6 +15,9 @@ Of course, I love to learn a new technology.
 - linked-in: https://www.linkedin.com/in/doyuplee/  
 - facebook: https://www.facebook.com/doyup2
 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LeeDoYup&show_icons=true" alt="LeeDoYup" /></p>
+
 <!--
 **LeeDoYup/LeeDoYup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
