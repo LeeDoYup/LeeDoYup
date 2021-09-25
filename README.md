@@ -1,5 +1,5 @@
 ## Hello 😄
-I am Doyup Lee. Now, I am a research intern at Kakao Brain, South Korea.
+I am Doyup Lee. Now, I am a research intern at Kakao Brain, South Korea.  
 I'm also a Ph.D candidate at POSTECH, South Korea.  
 I definetly believe that machine learning can make human life much happier.  
 Of course, I love to learn a new technology. 
