@@ -1,14 +1,15 @@
 ## Hello 😄
 I am Doyup Lee. Now, I am an AI researcher at Kakao Brain, South Korea.   
 I definetly believe that machine learning can make human life much happier.  
-Of course, I love to learn a new technology. 
+Of course, I love to learn new technologies. 
 
 ### Research Interests
-- Robustness of deep learning
-- Anomaly detection
-- Generative Models 
-- Training DNNs with limited labels
+- Large-Scale Generative Models
 - Multi-modal and unified representation learning
+- Training DNNs with limited labels
+- Robustness of deep learning and Anomaly Detection
+- Technology Innovation 
+
 
 ### Contact
 - e-mail: damien.re@kakaobrain.com
