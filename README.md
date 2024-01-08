@@ -1,5 +1,5 @@
 ## Hello 😄
-I am Doyup Lee. Now, I am an AI researcher at Runway, New York.   
+I am Doyup Lee. Now, I am an AI researcher atRunway, New York.   
 I definetly believe that machine learning can make human life much happier.  
 Of course, I love to learn new technologies. 
 
