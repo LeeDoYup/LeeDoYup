@@ -1,8 +1,6 @@
 ## Hello 😄
-I am Doyup Lee, a Member of Techinical Staff, Applied Research, at Runway.  
-Currently, I spend most of my time to innovate the way of human imagination,  
-believing that telling more stories make human being more happier.  
-Of course, I love to learn new technologies.   
+I am Doyup Lee, the founder of a stealth AI startup for visual content creation. Before that, I was a senior member of technical staff at Runway and the co-creator of Gen-3 Alpha, Frames, and Gen-4, which are the flagship products of Runway.
+Currently, I spend most of my time to innovate the way of human imagination, believing that telling more stories make human being more happier.
 
 ### Research Interests
 - Large-Scale Generative Models
@@ -12,6 +10,6 @@ Of course, I love to learn new technologies.
 
 
 ### Contact
-- e-mail: doyup@runwayml.com
+- e-mail: zzehqlzz@gmail.com
 - google scholar: https://scholar.google.co.kr/citations?user=doyuplee&user=5rAj44kAAAAJ
 - linked-in: https://www.linkedin.com/in/doyuplee/  
