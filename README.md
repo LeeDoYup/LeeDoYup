@@ -1,5 +1,5 @@
 ## Hello 😄
-I am Doyup Lee, the founder of a stealth AI startup for visual content creation. Before that, I was a senior member of technical staff at Runway and a foundational contributor of Gen-3 Alpha, Frames, and Gen-4, which are the flagship products of Runway.
+I am Doyup Lee in a stealth mode to dream the next era of content creation. Before that, I was a senior member of technical staff at Runway and a foundational contributor of Gen-3 Alpha, Frames, and Gen-4, which are the flagship products of Runway.
 Currently, I spend most of my time to innovate the way of human imagination, believing that telling more stories make human being more happier.
 
 ### Research Interests
